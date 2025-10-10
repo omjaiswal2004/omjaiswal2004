@@ -1,100 +1,166 @@
-<h1 align="center">Hi 👋, I’m Om Jaiswal</h1>
-<h3 align="center">Computer Science Undergrad | Full Stack Developer | ML Enthusiast</h3>
+# Hi there, I'm Om Jaiswal! 👋
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  [![Om’s LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Omjaiswal2004&theme=Dark)](https://leetcode.com/u/Omjaiswal2004/)
+  <a href="https://www.linkedin.com/in/om-jaiswal-215875265/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Omjaiswal2004/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me  
-🎓 Pursuing **B.Tech in Computer Science** at **VIT Pune** (Batch of 2026)  
-💡 Passionate about **Machine Learning**, **Full-Stack Development**, and **System Design**  
-📚 Constantly exploring new technologies and working on real-world impactful projects  
-🧠 Published **2 IEEE papers** and **1 Patent** in ML & AI  
-🚀 Solved **800+ coding problems** on platforms like LeetCode, CodeChef, and GFG  
+## 🚀 About Me
+
+- 🎓 Passionate developer focused on building impactful solutions
+- 💻 Love solving complex algorithmic problems on LeetCode
+- 🌱 Currently exploring advanced data structures and system design
+- 🎯 Goal: Contribute to open-source and build scalable applications
+- 📍 Based in Pune, Maharashtra, India
+- ⚡ Fun fact: I code better with music 🎵
 
 ---
 
-### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/om-jaiswal-215875265" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:om.jaiswal22@vit.edu">
-    <img src="https://img.shields.io/badge/-Email-FF3333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Omjaiswal2004/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://github.com/omjaiswal2004" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🧠 Tech Stack  
+## 📊 LeetCode Stats
 
-#### 💻 Programming Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Omjaiswal2004?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
+</div>
 
-#### 🧩 Frameworks, Libraries & Tools  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-
-#### 🧠 Machine Learning & AI  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-
-#### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+### 🏆 Problem Solving Journey
+- 💡 Consistent problem solver focusing on algorithmic thinking
+- 🎯 Tackling problems across Easy, Medium, and Hard difficulties
+- 🔥 Building strong foundations in Data Structures & Algorithms
 
 ---
 
-### 🏆 Achievements  
-- 🥇 **GATE 2025 Qualified**  
-- 🧠 **800+ problems solved** on coding platforms  
-- 📰 **2 IEEE Papers & 1 Patent Published**  
-- 🏅 **CodeChef Global Rank 1049** (Starter 148)  
-- 🎓 CGPA **8.15** (VIT Pune)  
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
-### 📊 GitHub Stats  
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### 🌟 [Project Name 1](https://github.com/YOUR_USERNAME/project1)
+**Tech Stack:** React, Node.js, MongoDB  
+Brief description of what this project does and the problem it solves. Highlight key features and your role.
+
+### 🌟 [Project Name 2](https://github.com/YOUR_USERNAME/project2)
+**Tech Stack:** Python, Django, PostgreSQL  
+Brief description of what this project does and the problem it solves. Highlight key features and your role.
+
+### 🌟 [Project Name 3](https://github.com/YOUR_USERNAME/project3)
+**Tech Stack:** JavaScript, Express.js, MySQL  
+Brief description of what this project does and the problem it solves. Highlight key features and your role.
+
+---
+
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+*Coming soon! I'll be sharing my learnings and experiences in software development.*
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const omJaiswal = {
+    currentlyLearning: ["System Design", "Advanced DSA", "Cloud Technologies"],
+    lookingFor: "SDE opportunities and open-source collaborations",
+    2025Goals: ["Solve 500+ LeetCode problems", "Contribute to major open-source projects"],
+    funFact: "I debug code by explaining it to my rubber duck 🦆"
+};
+```
+
+---
+
+## 📫 Let's Connect!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omjaiswal2004&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omjaiswal2004&theme=tokyonight" height="150" />
+  <a href="https://www.linkedin.com/in/om-jaiswal-215875265/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Omjaiswal2004/">
+    <img src="https://img.shields.io/badge/LeetCode-Follow-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
----
-
-### 🧩 Featured Projects  
-🔹 [Food Ordering & Sales Prediction (IEEE Paper)](https://ieeexplore.ieee.org/document/11118931)  
-🔹 [News Crawling & Sentiment Analysis](#)  
-🔹 [Gesture & Morse Code Interpreter (Patent Published)](#)  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
 ---
 
-### ✨ Quote  
-> “Code. Learn. Improve. Repeat.” 🚀  
-> *– Om Jaiswal*
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
----
+<div align="center">
+  
+  **💬 "Code is like humor. When you have to explain it, it's bad." – Cory House**
+  
+  ⭐️ From [Your GitHub Username](https://github.com/YOUR_GITHUB_USERNAME)
+  
+</div>
