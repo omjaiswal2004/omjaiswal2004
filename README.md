@@ -1,4 +1,4 @@
-# Hi there, I'm Om Jaiswal! 👋
+# Hi there, I'am Om Jaiswal! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
