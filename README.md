@@ -7,20 +7,17 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/om-jaiswal-215875265/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Omjaiswal2004/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Passionate developer focused on building impactful solutions
-- 💻 Love solving complex algorithmic problems on LeetCode
+- 🎓 Passionate developer focused on building full stack , AIML project.
+- 💻 Love solving complex algorithmic problems.
 - 🌱 Currently exploring advanced data structures and system design
 - 🎯 Goal: Contribute to open-source and build scalable applications
 - 📍 Based in Pune, Maharashtra, India
-- ⚡ Fun fact: I code better with music 🎵
-
 ---
 
 ## 🛠️ Tech Stack
@@ -80,7 +77,7 @@
   <a href="https://leetcode.com/u/Omjaiswal2004/">
     <img src="https://img.shields.io/badge/LeetCode-Follow-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.omsachinjaiswal2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
@@ -92,13 +89,6 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+    "Code is like humor. When you have to explain it, it's bad"
 </div>
 
-<div align="center">
-  
-  **💬 "Code is like humor. When you have to explain it, it's bad." – Cory House**
-  
-  ⭐️ From [Your GitHub Username](https://github.com/YOUR_GITHUB_USERNAME)
-  
-</div>
